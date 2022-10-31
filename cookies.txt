@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.boombox-boxing.com	TRUE	/	FALSE	1999999999	crumb	BdBs/gEo9n4VOWE1MWI4ZWQ2Yzk3ODgwYWZjYzk2MjEzMWVlOGY3
+
